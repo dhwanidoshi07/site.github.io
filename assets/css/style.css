@@ -138,8 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  height:100px;
-  width: 150px;
+  max-height: 40px;
 }
 
 @media (max-width: 992px) {
